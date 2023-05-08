@@ -1,5 +1,7 @@
 import { Login, User } from './interface'
 
+// import * as UserLogin from './interface'
+
 // class Employee {
 //     id!: number;
 //     name!: string;
